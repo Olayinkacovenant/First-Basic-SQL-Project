@@ -16,6 +16,10 @@ The main purpose of this project is to analyze the sales of differrent product l
 
 # DATA ANALYSIS
 (1) What month of the year generally has the most orders?
+
+
+
+
 ![Number one](https://user-images.githubusercontent.com/37605719/219268081-9df7dd44-305b-49ba-ab38-705440717020.PNG)
 
 
