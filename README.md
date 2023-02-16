@@ -63,13 +63,44 @@ The main purpose of this project is to analyze the sales of differrent product l
 
 
 
-![6](https://user-images.githubusercontent.com/37605719/219270058-8bea46c5-d454-42b9-89a2-9a7bdad48aa6.PNG)
+![6](https://user-images.githubusercontent.com/37605719/219270637-7e0f5521-d5a4-4508-8594-ae29e3a46427.PNG)
 
 
 (7) What country do products get ordered for the most?
 
+
+
+
+
+![7](https://user-images.githubusercontent.com/37605719/219270695-ae1de089-b8ab-4dc6-a282-7c5b31940d28.PNG)
+
+
 (8) What Territory do products get ordered for the most?
+
+
+
+
+
+
+![8](https://user-images.githubusercontent.com/37605719/219270767-b3668d4f-ab42-4ae2-8eaf-a71adc8e18e9.PNG)
 
 (9) What dealsize gets ordered for the most?
 
+
+
+
+
+![9](https://user-images.githubusercontent.com/37605719/219270884-e0f271bc-1b9a-4bc9-b2f1-510ee23b21aa.PNG)
+
+
 (10) What dealsize sells the most?
+
+
+
+
+
+![10](https://user-images.githubusercontent.com/37605719/219270961-59f39d81-0664-4862-84a4-669a12cdb5b6.PNG)
+
+
+
+
