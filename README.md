@@ -1,17 +1,15 @@
-# First Basic SQL Project
+# INTRODUCTION
 This was the first SQL code I wrote after taking courses online and watching lots youtube videos.
 I decided it was time to try something even though basic.
 It is very beginner friendly and you should actually try it out if you are just starting out with SQL.
 Check out the excel file containing the dataset I used, there is also the SQL file containing the basic queries and a PDF file that shows the visualization.
 I used PowerBI for the visualization by the way.
 
-
-# INTRODUCTION
-The dataset I used for this project shows the data that consists of the order and sales details of different productline for two and a half years (One of the years had the details for only 5 months). I used SQL and PowerBI to discover patterns and trends which can be used to promote the sales strategy for the brand by considering the product that are frequently ordered for, the month that has the highest order by customers.
+The dataset I used for this project shows the data that consists of the order and sales details of different product lines for two and a half years (One of the years had the details of only 5 months). I used SQL to discover patterns and trends which can be used to promote the sales strategy for the brand by considering the products that are frequently ordered for, the month that has the highest order by customers amongst other things.
 
 
 # AIM
-The main purpose of this project is to analyze the sales of differrent product line and come up with helpful insights that can help in understanding the customer better.
+The main purpose of this project is to analyze the sales of different product lines and come up with helpful insights that can help in understanding the customer better.
 
 
 # DATA ANALYSIS
